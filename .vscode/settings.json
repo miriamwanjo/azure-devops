@@ -1,3 +1,4 @@
 {
-    "makefile.extensionOutputFolder": "./.vscode"
+    "makefile.extensionOutputFolder": "./.vscode",
+    "python.pythonPath": "c:\\Users\\Josh\\OneDrive\\Documents\\GitHub\\azure-devops\\azure-devops\\Scripts\\python.exe"
 }
